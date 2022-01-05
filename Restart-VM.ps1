@@ -1,0 +1,1 @@
+Restart-AzVM -ResourceGroupName "Rodrigo-RG" -Name "simple-vm"
